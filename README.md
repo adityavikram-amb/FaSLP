@@ -1,2 +1,2 @@
 # FaSLP
-This is an android based application to smoothen the process of applying for leave for faculty and staff.
+This is an android based application to smoothen the process of applying for leave for faculty and staff for fast functioning.
